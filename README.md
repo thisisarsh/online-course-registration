@@ -7,8 +7,8 @@
 <ul>
   <li>Secure Login</li>
   <li>Manage Session</li>
-  <li>Key feature num. 3</li>
-  <li>Key feature num. 4</li>
+  <li>Print enrollment records</li>
+  <li>View logs</li>
 </ul>
 
 <h3> Download & Installation </h3>

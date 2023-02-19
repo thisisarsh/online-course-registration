@@ -12,34 +12,7 @@
   <li>Key feature num. 4</li>
 </ul>
 
-<h3> Demo -> Show me what you got </h3>
-
-<a href="#"> Link to your awesome Demo </a>
-
-<a href="#"> Another Link to your awesome Demo </a>
-
-<a href="https://www.designinspiration.info/"> Design Fonts Inspiration </a>
-
-<h3> Code Demo </h3>
-
-```html
-
-We will use markdown for the Syntax Highlighting
-
-<ul>
-  <li>Beautiful Starter Template for README.md</li>
-  <li>List of Student Logs</li>
-  <li>Register Student</li>
-  <li>Print Enrollment Records</li>
-</ul>
-
-```
-
 <h3> Download & Installation </h3>
-
-```shell
-$ npm i boilerplate-readme-template
-```
 
 Download and Install any local web server such as XAMPP/WAMP.
 If you are using XAMPP, frok source code folder into the XAMPP's "htdocs" directory. And If you are using WAMP, fork it into the "www" 

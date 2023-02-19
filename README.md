@@ -1,5 +1,4 @@
-<h1 align="center"> Project Title - Online Course Registration </h1>
-
+<h1 align="center">Online Course Registration </h1>
 
 <hr/>
 
@@ -28,6 +27,7 @@ Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
 - Browse the Online Course Registration System in a browser. i.e. ``` http://localhost/Online%20Course%20Registration/ ``` and ``` http://localhost/Online%20Course%20Registration/admin ``` for the admin side.
 
 <h4>Admin Login Information</h4>
+
 - Username: admin
 - Password: admin
 
